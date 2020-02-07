@@ -1,0 +1,27 @@
+COD:ZERSTANZEN			 
+
+DIM:X3000 Y1500 S1 K40
+
+;*******************************************************
+; Firma             : TK Aufzugswerke GmbH
+; Datum             : 11.03.2015
+; Programmierer     : Marcus Tausend
+;*******************************************************
+PUN:2 P21 F50.00 G50.00 "QUAD50.0"
+PUN:2 P33 F29.50 G29.50 "QUAD29.5"
+PUN:2 P63 F22.00 G3.20 S90.00 E-1 U34.500 "RECH03222"
+PUN:2 P81 F40.80 G32.00 S90.00 "RECH32408"
+
+; Begrenzung max. Schrottschnitt ab def. Blechdicke:
+IF (dims >= 0.50) THEN
+MCM: N5 V200
+MCM: N6 V200
+ENDIF
+;*******************************************************
+VAR: T0 N O24 O9 O5 O54 O69 H
+;=====================================
+
+PIE: X0 Y0 U3000 V1500-50 DES
+PIE: X0 Y1500-50 U3000 V10 DES
+END
+

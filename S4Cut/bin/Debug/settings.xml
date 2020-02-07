@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                 <Settings>
+                                <Path>
+                                <Server>N:\5185\</Server>
+                                <Local>C:\usr2\syscon\S4_1444\production\5185\</Local>
+                                <Job>N:\5185\Wegwerf\</Job>
+                                    </Path>
+                                    <File>
+                                    <Prodlist>.PL</Prodlist>Produktionslisten endung eingeben
+                                    <S4prog>.S4</S4prog>Programm endung eingeben
+                                    <JobWidth>700</JobWidth>
+                                    <JobHeight>800</JobHeight>
+                                    </File>  
+                                </Settings>

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.1.0.4977
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S4Cut", "S4Cut\S4Cut.csproj", "{DC6C0BBA-BC6B-46F0-86F1-290269D29F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6C0BBA-BC6B-46F0-86F1-290269D29F40}.Debug|x86.Build.0 = Release|x86
+		{DC6C0BBA-BC6B-46F0-86F1-290269D29F40}.Debug|x86.ActiveCfg = Release|x86
+		{DC6C0BBA-BC6B-46F0-86F1-290269D29F40}.Release|x86.Build.0 = Release|x86
+		{DC6C0BBA-BC6B-46F0-86F1-290269D29F40}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

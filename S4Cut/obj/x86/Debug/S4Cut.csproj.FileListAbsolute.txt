@@ -1,0 +1,15 @@
+H:\S4Cut\S4Cut\bin\Debug\S4Cut.exe
+H:\S4Cut\S4Cut\bin\Debug\S4Cut.pdb
+H:\S4Cut\S4Cut\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.MainForm.resources
+H:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.csproj.GenerateResource.Cache
+H:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.exe
+H:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.pdb
+D:\S4Cut\S4Cut\bin\Debug\S4Cut.exe
+D:\S4Cut\S4Cut\bin\Debug\S4Cut.pdb
+D:\S4Cut\S4Cut\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.MainForm.resources
+D:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.csproj.GenerateResource.Cache
+D:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.exe
+D:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.pdb
+D:\S4Cut\S4Cut\obj\x86\Debug\S4Cut.Hilfe.resources
